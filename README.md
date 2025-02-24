@@ -2,12 +2,12 @@
 Bem-vindo ao meu repositório de estudos em **Data Science!** 🚀 Aqui você encontrará uma coleção estruturada de notebooks, projetos e recursos que abrangem desde conceitos fundamentais até aplicações avançadas em ciência de dados.
 
 ## **🔍 O que você vai encontrar?**
-✅ **Análises Exploratórias** – EDA detalhada com visualizações interativas.
-✅ **Pré-processamento de Dados** – Limpeza, transformação e engenharia de atributos.
-✅ **Modelagem Preditiva** – Implementação de algoritmos como Regressão, Random Forest e XGBoost.
-✅ **Aprendizado de Máquina** – Estudos sobre classificação, clustering e otimização de hiperparâmetros.
-✅ **Estatística e Probabilidade** – Aplicações em inferência estatística e testes de hipótese.
-✅ **Casos Práticos** – Projetos aplicados em diversas áreas, como segurança pública, entretenimento e mercado financeiro.
+✅ **Análises Exploratórias** – EDA detalhada com visualizações interativas. <br>
+✅ **Pré-processamento de Dados** – Limpeza, transformação e engenharia de atributos. <br>
+✅ **Modelagem Preditiva** – Implementação de algoritmos como Regressão, Random Forest e XGBoost. <br>
+✅ **Aprendizado de Máquina** – Estudos sobre classificação, clustering e otimização de hiperparâmetros. <br>
+✅ **Estatística e Probabilidade** – Aplicações em inferência estatística e testes de hipótese. <br>
+✅ **Casos Práticos** – Projetos aplicados em diversas áreas, como segurança pública, entretenimento e mercado financeiro. <br>
 
 ## 🛠️ **Tecnologias Utilizadas**
 - **Linguagens:** Python (pandas, numpy, scikit-learn, scipy, statsmodels, seaborn, matplotlib, plotly)
