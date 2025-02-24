@@ -12,7 +12,7 @@ Bem-vindo ao meu repositório de estudos em **Data Science!** 🚀 Aqui você en
 ## 🛠️ **Tecnologias Utilizadas**
 - **Linguagens:** Python (pandas, numpy, scikit-learn, scipy, statsmodels, seaborn, matplotlib, plotly)
 - **Plataformas:** Jupyter Notebook, Google Colab, Power BI, Looker Studio, Streamlit
-- **Banco de Dados:** PostgreSQL, SQLite
+- **Banco de Dados:** PostgreSQL, MySQL
 ## 📌 **Objetivo**
 Este repositório tem como objetivo **compartilhar conhecimento**, documentar meu aprendizado e fornecer recursos úteis para quem deseja aprimorar suas habilidades em **ciência de dados** e **machine learning**.
 
