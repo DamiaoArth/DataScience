@@ -30,7 +30,7 @@ Para executar este projeto localmente, siga os passos abaixo:
     Acesse o dashboard:
     Abra o navegador e acesse http://localhost:8501 para visualizar o dashboard.
 
-Estrutura do Projeto
+2. ## Estrutura do Projeto
 
     app.py: Código principal do aplicativo Streamlit.
 
@@ -38,14 +38,14 @@ Estrutura do Projeto
 
     requirements.txt: Lista de dependências necessárias para executar o projeto.
 
-Dependências
+3. ## Dependências
     Streamlit: Para criar a interface web.
     Pandas: Para manipulação e análise de dados.
     Altair: Para criação de gráficos.
     Plotly: Para visualizações interativas.
     NumPy: Para cálculos numéricos.
 
-Como Contribuir
+## Como Contribuir
 
 Contribuições são bem-vindas! Se você quiser contribuir para este projeto, siga os passos abaixo:
     Faça um fork do repositório.
@@ -60,9 +60,13 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
     git push origin minha-feature
     Abra um pull request no GitHub.
 
-Licença
+##
+
+## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DamiaoArth/DataScience/blob/main/LICENSE) para mais detalhes.
+
+##
 
 ## Contato
 
