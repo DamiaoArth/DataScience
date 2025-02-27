@@ -30,7 +30,7 @@ Para executar este projeto localmente, siga os passos abaixo:
     Acesse o dashboard:
     Abra o navegador e acesse http://localhost:8501 para visualizar o dashboard.
 
-2. ## Estrutura do Projeto
+2. **Estrutura do Projeto**
 
     app.py: Código principal do aplicativo Streamlit.
 
@@ -38,7 +38,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
     requirements.txt: Lista de dependências necessárias para executar o projeto.
 
-3. ## Dependências
+3. **Dependências**
     Streamlit: Para criar a interface web.
     Pandas: Para manipulação e análise de dados.
     Altair: Para criação de gráficos.
