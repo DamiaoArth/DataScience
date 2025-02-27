@@ -28,9 +28,9 @@ O processo incluiu:
 ## Links para os Datasets Utilizados
 
 Aqui estão os links para os datasets utilizados nesta análise:
-- **Tableau**: [Dataset de Salários de Desenvolvedores](https://www.kaggle.com/datasets/salários-desenvolvedores)
-- **Google Looker Studio**: [Dados de Mobilidade Urbana de Curitiba](https://dados.curitiba.pr.gov.br/mobilidade)
-- **Power BI**: [Estatísticas de Startups Globais](https://www.kaggle.com/datasets/startups-globais)
+- **Tableau**: [Dataset de Salários de Desenvolvedores](https://www.kaggle.com/datasets/samithsachidanandan/the-global-ai-ml-data-science-salary-for-2025)
+- **Google Looker Studio**: [Dados de Mobilidade Urbana de Curitiba](https://dadosabertos.curitiba.pr.gov.br/conjuntodado/detalhe?chave=0d5a7b06-3940-4be9-876e-bc8f23e96530)
+- **Power BI**: [Estatísticas de Startups Globais](https://www.kaggle.com/datasets/adilshamim8/startup-growth-and-investment-data/data)
 - **Streamlit**: [População Estadual Brasileira](https://github.com/DamiaoArth/DataScience/blob/main/Estudos%20Te%C3%B3ricos/Pesquisa%20sobre%20Plataformas%20de%20Data%20Analytics/data/br-population-2015-2024.csv)
 
 ---
@@ -79,6 +79,6 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 ## Contato
 
 Se tiver dúvidas ou quiser discutir o projeto, entre em contato:
-- **Nome**: [Seu Nome]
-- **E-mail**: [seu-email@exemplo.com]
-- **LinkedIn**: [link para seu perfil]
+- **Nome**: Arthur Damiao Mendes
+- **E-mail**: contatoarthurdamiao@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/arthurdamiao/
