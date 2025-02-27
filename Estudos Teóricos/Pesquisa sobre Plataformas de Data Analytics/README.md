@@ -1,4 +1,4 @@
-# Relatório de Pesquisa sobre Plataformas de Data Analytics
+cleaned# Relatório de Pesquisa sobre Plataformas de Data Analytics
 
 Este repositório contém um relatório detalhado comparando quatro ferramentas populares de análise e visualização de dados: **Tableau**, **Google Looker Studio**, **Power BI** e **Streamlit**. O objetivo é ajudar profissionais, estudantes e empresas a escolher a ferramenta mais adequada para suas necessidades.
 
@@ -31,7 +31,7 @@ Aqui estão os links para os datasets utilizados nesta análise:
 - **Tableau**: [Dataset de Salários de Desenvolvedores](https://www.kaggle.com/datasets/salários-desenvolvedores)
 - **Google Looker Studio**: [Dados de Mobilidade Urbana de Curitiba](https://dados.curitiba.pr.gov.br/mobilidade)
 - **Power BI**: [Estatísticas de Startups Globais](https://www.kaggle.com/datasets/startups-globais)
-- **Streamlit**: [População Estadual Brasileira](https://www.ibge.gov.br/populacao)
+- **Streamlit**: [População Estadual Brasileira](https://github.com/DamiaoArth/DataScience/blob/main/Estudos%20Te%C3%B3ricos/Pesquisa%20sobre%20Plataformas%20de%20Data%20Analytics/data/br-population-2015-2024.csv)
 
 ---
 
