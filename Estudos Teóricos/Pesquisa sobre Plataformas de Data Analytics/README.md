@@ -16,7 +16,7 @@ Para garantir uma análise justa e abrangente, utilizamos datasets específicos 
 - **Tableau**: Dados sobre salários e empregos de desenvolvedores ao redor do mundo.
 - **Google Looker Studio**: Dados de mobilidade urbana em Curitiba, fornecidos pelas secretarias municipais.
 - **Power BI**: Estatísticas sobre crescimento e investimento de startups globais.
-- **Streamlit**: Dados sobre a população estadual brasileira nos últimos 11 anos.
+- **Streamlit**: Dados sobre a população estadual brasileira nos últimos 9 anos.
 
 O processo incluiu:
 1. Exploração das funcionalidades de cada plataforma.
