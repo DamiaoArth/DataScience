@@ -1,4 +1,4 @@
-cleaned# Relatório de Pesquisa sobre Plataformas de Data Analytics
+# Relatório de Pesquisa sobre Plataformas de Data Analytics
 
 Este repositório contém um relatório detalhado comparando quatro ferramentas populares de análise e visualização de dados: **Tableau**, **Google Looker Studio**, **Power BI** e **Streamlit**. O objetivo é ajudar profissionais, estudantes e empresas a escolher a ferramenta mais adequada para suas necessidades.
 
