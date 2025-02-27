@@ -72,7 +72,7 @@ Sinta-se à vontade para abrir **issues** com dúvidas, sugestões ou problemas 
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/DamiaoArth/DataScience/blob/main/LICENSE) para mais detalhes.
 
 ---
 
@@ -81,4 +81,4 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 Se tiver dúvidas ou quiser discutir o projeto, entre em contato:
 - **Nome**: Arthur Damiao Mendes
 - **E-mail**: contatoarthurdamiao@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/arthurdamiao/
+- **LinkedIn**: [https://www.linkedin.com/in/arthurdamiao/](https://www.linkedin.com/in/arthurdamiao/)
