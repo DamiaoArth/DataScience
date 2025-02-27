@@ -60,13 +60,9 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
     git push origin minha-feature
     Abra um pull request no GitHub.
 
-##
-
-## Licença
+##Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DamiaoArth/DataScience/blob/main/LICENSE) para mais detalhes.
-
-##
 
 ## Contato
 
