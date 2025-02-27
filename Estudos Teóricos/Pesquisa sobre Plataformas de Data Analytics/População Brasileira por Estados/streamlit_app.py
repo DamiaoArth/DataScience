@@ -186,30 +186,33 @@ with col[0]:
     if selected_ano > 2015:
         first_state_name = df_population_difference_sorted.Estado.iloc[0]
         first_state_population = format_number(df_population_difference_sorted.populacao.iloc[0])
-        first_state_delta = format_number(df_population_difference_sorted.populacao.iloc[0] - df_reshaped[df_reshaped.ano == selected_ano - 1].populacao.iloc[0])
+        
+        # Calcular a diferença de crescimento
+        previous_year_population = df_reshaped[(df_reshaped.ano == selected_ano - 1) & (df_reshaped.Estado == first_state_name)].populacao.iloc[0]
+        first_state_delta = df_population_difference_sorted.populacao.iloc[0] - previous_year_population
+        first_state_delta_formatted = format_number(first_state_delta)
     else:
         first_state_name = '-'
         first_state_population = '-'
-        first_state_delta = ''
-    st.metric(label=first_state_name, value=first_state_population, delta=first_state_delta)
+        first_state_delta_formatted = ''
+    
+    st.metric(label=first_state_name, value=first_state_population, delta=first_state_delta_formatted)
 
     if selected_ano > 2015:
         last_state_name = df_population_difference_sorted.Estado.iloc[-1]
-        last_state_population = format_number(df_population_difference_sorted.populacao.iloc[-1])   
-        last_state_delta = format_number(df_population_difference_sorted.populacao.iloc[-1] - df_reshaped[df_reshaped.ano == selected_ano - 1].populacao.iloc[-1])   
+        last_state_population = format_number(df_population_difference_sorted.populacao.iloc[-1])
+        
+        # Calcular a diferença de crescimento
+        previous_year_population = df_reshaped[(df_reshaped.ano == selected_ano - 1) & (df_reshaped.Estado == last_state_name)].populacao.iloc[0]
+        last_state_delta = df_population_difference_sorted.populacao.iloc[-1] - previous_year_population
+        last_state_delta_formatted = format_number(last_state_delta)
     else:
         last_state_name = '-'
         last_state_population = '-'
-        last_state_delta = ''
-    st.metric(label=last_state_name, value=last_state_population, delta=last_state_delta)
+        last_state_delta_formatted = ''
+    
+    st.metric(label=last_state_name, value=last_state_population, delta=last_state_delta_formatted)
 
-    st.markdown('#### Evolução da População por Estado')
-
-    estado_selecionado = st.selectbox('Selecione um estado', df_reshaped.Estado.unique())
-    df_estado_selecionado = df_reshaped[df_reshaped.Estado == estado_selecionado]
-
-    line_chart = make_line_chart(df_estado_selecionado, 'ano', 'populacao', 'Estado')
-    st.altair_chart(line_chart, use_container_width=True)
 
 with col[1]:
     st.markdown('#### População Total')
