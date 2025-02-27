@@ -80,5 +80,5 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](h
 
 Se tiver dúvidas ou quiser discutir o projeto, entre em contato:
 - **Nome**: Arthur Damiao Mendes
-- **E-mail**: contatoarthurdamiao@gmail.com
+- **E-mail**:  <a href = "mailto:contatoarthurdamiao@gmail.com">contatoarthurdamiao@gmail.com</a>
 - **LinkedIn**: [https://www.linkedin.com/in/arthurdamiao/](https://www.linkedin.com/in/arthurdamiao/)
